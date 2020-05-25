@@ -1,5 +1,3 @@
-//Linear Search: O(n)
-//Binary Search: O(log(n))
 #include<stdio.h>
 #include<conio.h>
 
